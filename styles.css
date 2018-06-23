@@ -1,0 +1,7 @@
+nav ul li {
+  display: none;
+}
+
+nav::before {
+  content: '\f0c9';
+}
